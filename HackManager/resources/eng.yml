@@ -1,0 +1,10 @@
+prefix: "§l§b[INFO]§r§7 "
+
+setting-plugin-language: "Plugin enable language set to %lang%."
+
+hack-program-joined: "External program detected. (Auto Banned)"
+distance-attack-warn: "You didn't damage it because I was far away from my opponent."
+dont-shadow-skin-joined: "You cannot connect to the server with transparent skins."
+dont-shadow-skin-changed: "You cannot change the skin with transparent skin."
+fast-speed-walk: "Speed hack detected."
+dont-server-fly: "Fly Hack detected."
