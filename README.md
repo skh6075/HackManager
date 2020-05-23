@@ -10,3 +10,4 @@ PocketMine-MP No Hack!
 * No-Clip
 * Shadow Skin Join/Changed
 * Air Jump
+* Distance Damage
