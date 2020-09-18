@@ -6,8 +6,9 @@ PocketMine-MP No Hack!
 * ToolBox
 * BlockLauncher
 * Speed Move
-* Fly
+* Fly [Error]
 * No-Clip
 * Shadow Skin Join/Changed
 * Air Jump
 * Distance Damage
+* Shadow Hack
